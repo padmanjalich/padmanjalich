@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Padmanjali Chintakrindi**, a versatile Full Stack Developer with over 5 years of experience specializing in both .NET and OutSystems development. I have a strong background in building scalable, high-performance applications using .NET Core, C#, ASP.NET, SQL, and Azure, while also leveraging low-code platforms like OutSystems to accelerate development and optimize business processes.
+I'm **Padmanjali Chintakrindi**, a versatile Full Stack Developer with 4+ years of experience specializing in both .NET and OutSystems development. I have a strong background in building scalable, high-performance applications using .NET Core, C#, ASP.NET, SQL, and Azure, while also leveraging low-code platforms like OutSystems to accelerate development and optimize business processes.
 
 - 🔭 I’m currently enhancing my skills in cloud solutions, DevOps practices, and low-code development.
 - 🌱 I’m deepening my expertise in Angular, Azure, and OutSystems, focusing on advanced techniques and integrations.
